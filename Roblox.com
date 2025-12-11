@@ -1,4 +1,4 @@
-<!DOCTYPE HTML>
+macro<!DOCTYPE HTML>
 <html lang="en">
 <head>
 <title>Using the Program | AutoHotkey v2</title>
